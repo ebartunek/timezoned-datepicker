@@ -4,6 +4,8 @@
 
 It provides behavioral and accessibility implementations for all sorts of calendars, date and time pickers.
 
+This is a fork that adds timezone support and other fixes. 
+
 <div align="center">
 
 [![size](https://img.shields.io/bundlephobia/minzip/@rehookify/datepicker?label=MIN%20%2B%20GZIP&style=for-the-badge)](https://bundlephobia.com/package/@rehookify/datepicker)
